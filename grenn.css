@@ -1,0 +1,147 @@
+@font-face {
+    font-family: "Oswald";
+    src: url(Oswald-VariableFont_wght.ttf); 
+} 
+
+nav{
+    background: rgb(184, 203, 33);
+   
+    margin-bottom: 100%;
+    padding-top: 5%;
+    
+    
+      
+}
+
+
+header{
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    margin: 0% 15% 0% 15%  ;
+    padding: auto;
+ 
+}
+ header nav ul li{
+  
+    display: inline;
+    text-transform: uppercase;
+    font-family: "Oswald";
+    font-size: 24px;
+    font-weight: 400;
+    margin:2% 5% 0% 0%;  
+}
+
+header nav ul{
+    padding:0;
+    margin: 5% 0% 0% 5%;
+    width:50%;
+   float: right ;
+   
+}
+/*Font size: 24px;
+Font weight: 400;
+Line height: normal;
+Font color: rgb(184, 203, 33)
+}*/
+img{
+       
+    width: 15%; height: 20%;
+    margin-left: 1%;
+    
+}
+.body{
+
+   
+    height: 10%;
+    margin: 15% 15% 80% 15%;
+    background: white ;
+    padding: 2% 0% 20% 0%;
+    margin-top: 95px; 
+    margin-bottom: 10%;
+      
+           
+} 
+html{
+
+    background: rgb(224, 223, 220);
+   
+    
+    
+}
+
+h2{
+    color: rgb(184, 203, 33);
+    margin-top: 80px;
+    
+}
+/* 
+p{
+    float: left;
+    shape-outside: margin-box;
+   text-align: justify;
+    margin-left: 20%;
+    margin-bottom: 150PX;
+}
+.imgG{
+    width: 20%;
+    height: 20%;
+    
+    
+}
+.cont{
+    position: absolute;
+ 
+     
+    text-align: justify;
+
+    margin-top: auto;
+    margin-bottom: 100%;
+    text-align: justify;
+    padding-right: 10%;
+    padding-left: 5%;
+    
+    
+   
+   
+}*/
+
+.pho{
+
+float: left;
+width: 30%;
+height: 30%; 
+margin: 5px;   
+}
+.myBtn{
+    background-color: rgb(184, 203, 33);
+    padding: 1%;
+    float: right;
+   border-style: hidden;
+}
+.sect{
+    
+   text-align: justify;
+   padding-right: 10%;
+   padding-left: 5%;
+}
+
+
+
+footer{
+    margin-top: 10px;
+    text-align: center;
+    
+}
+.foot{
+    margin:0% 0% 0% 0%;
+    width: 50px;
+    height: 50px;
+    }
+
+.lise{
+    margin: 5% 0% 0% 10% ;
+   
+}
+
